@@ -1,0 +1,15 @@
+.card-avatar
+{
+    position: relative;
+    bottom: 80px;
+}
+.effet-hover:hover{
+    transform: scale(1);
+    background-color: rgba(38, 102, 221, 0.829);
+    color: aliceblue;
+}
+.card-avatar{
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+}
